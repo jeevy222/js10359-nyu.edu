@@ -61,7 +61,4 @@ Similarly, do we have enough copies of different services running such that a fe
 How are we monitoring the performance of our service? Do we get alerts whenever critical components fail or their performance degrades?
 
 
-Summary
-In short, preparation and being organized during the interview are the keys to be successful in system design interviews. The steps mentioned above should guide you to remain on track and cover all the different aspects while designing a system.
-
 
